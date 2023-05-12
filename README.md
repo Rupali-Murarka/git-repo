@@ -1,2 +1,2 @@
 # git-repo
-learnig how to commit
+learning how to commit
