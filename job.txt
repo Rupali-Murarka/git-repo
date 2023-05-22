@@ -1,2 +1,6 @@
 job logs
+<<<<<<< Updated upstream
 trying to pull
+=======
+job is executing
+>>>>>>> Stashed changes
