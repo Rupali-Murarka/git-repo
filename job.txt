@@ -1,3 +1,0 @@
-job logs
-trying to pull
-job is executing
