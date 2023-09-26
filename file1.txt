@@ -1,2 +1,2 @@
 this is my first file
-trying to push
+learnig push/pull commands
